@@ -1,5 +1,4 @@
 import React from "react" ; 
-
 import ss from "../src/images/Untitled.jpg"
 import web1 from "../src/images/Untitled1.jpg"
 import web2 from "../src/images/Untitled2.jpg"
