@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/React-project/static/css/main.ec53c645.chunk.css",
+    "main.js": "/React-project/static/js/main.3cde3d2d.chunk.js",
+    "main.js.map": "/React-project/static/js/main.3cde3d2d.chunk.js.map",
+    "runtime-main.js": "/React-project/static/js/runtime-main.76175aa3.js",
+    "runtime-main.js.map": "/React-project/static/js/runtime-main.76175aa3.js.map",
+    "static/css/2.92258400.chunk.css": "/React-project/static/css/2.92258400.chunk.css",
+    "static/js/2.1483f89e.chunk.js": "/React-project/static/js/2.1483f89e.chunk.js",
+    "static/js/2.1483f89e.chunk.js.map": "/React-project/static/js/2.1483f89e.chunk.js.map",
+    "index.html": "/React-project/index.html",
+    "precache-manifest.7c3cd18f96fc68a746692e39948b4de3.js": "/React-project/precache-manifest.7c3cd18f96fc68a746692e39948b4de3.js",
+    "service-worker.js": "/React-project/service-worker.js",
+    "static/css/2.92258400.chunk.css.map": "/React-project/static/css/2.92258400.chunk.css.map",
+    "static/css/main.ec53c645.chunk.css.map": "/React-project/static/css/main.ec53c645.chunk.css.map",
+    "static/js/2.1483f89e.chunk.js.LICENSE.txt": "/React-project/static/js/2.1483f89e.chunk.js.LICENSE.txt",
+    "static/media/Birds-Flourish.svg": "/React-project/static/media/Birds-Flourish.4160894a.svg",
+    "static/media/Floral-Flourish-5.svg": "/React-project/static/media/Floral-Flourish-5.ea74ed5e.svg",
+    "static/media/App.css": "/React-project/static/media/roboto-bold-webfont.d04709ef.woff2",
+    "static/media/Untitled.jpg": "/React-project/static/media/Untitled.cd643f81.jpg",
+    "static/media/Untitled1.jpg": "/React-project/static/media/Untitled1.c186db3b.jpg",
+    "static/media/Untitled2.jpg": "/React-project/static/media/Untitled2.31b35b55.jpg",
+    "static/media/about1.png": "/React-project/static/media/about1.ae1c75e2.png",
+    "static/media/bakery.mp4": "/React-project/static/media/bakery.c0309b4b.mp4",
+    "static/media/business1.png": "/React-project/static/media/business1.77259ab4.png",
+    "static/media/choco1.jpg": "/React-project/static/media/choco1.88e5bb14.jpg",
+    "static/media/cool.jpg": "/React-project/static/media/cool.f28d545e.jpg",
+    "static/media/cool1.jpg": "/React-project/static/media/cool1.c03dc8df.jpg",
+    "static/media/four.jpg": "/React-project/static/media/four.2ff4bc1c.jpg",
+    "static/media/furniture.mp4": "/React-project/static/media/furniture.db21e780.mp4",
+    "static/media/hand_pizza7.mp4": "/React-project/static/media/hand_pizza7.37fd1d61.mp4",
+    "static/media/logo.svg": "/React-project/static/media/logo.5d5d9eef.svg",
+    "static/media/one.jpg": "/React-project/static/media/one.5ba2fb74.jpg",
+    "static/media/two.jpg": "/React-project/static/media/two.cfe094b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76175aa3.js",
+    "static/css/2.92258400.chunk.css",
+    "static/js/2.1483f89e.chunk.js",
+    "static/css/main.ec53c645.chunk.css",
+    "static/js/main.3cde3d2d.chunk.js"
+  ]
+}
