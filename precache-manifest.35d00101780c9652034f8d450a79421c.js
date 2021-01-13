@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "612a10892b4f91b462048e17569f25b5",
+    "revision": "1e173f9157d63c257fa7041836df62bd",
     "url": "/React-project/index.html"
   },
   {
-    "revision": "9eb5e2f06b3ef4175cee",
+    "revision": "d244b65ec5b3d5433425",
     "url": "/React-project/static/css/2.92258400.chunk.css"
   },
   {
-    "revision": "06b6298c762fdc9d1560",
+    "revision": "264c564028b53f6b6202",
     "url": "/React-project/static/css/main.ec53c645.chunk.css"
   },
   {
-    "revision": "9eb5e2f06b3ef4175cee",
-    "url": "/React-project/static/js/2.1483f89e.chunk.js"
+    "revision": "d244b65ec5b3d5433425",
+    "url": "/React-project/static/js/2.a48bd138.chunk.js"
   },
   {
     "revision": "e60f6644a238030ec5fb7683004cdede",
-    "url": "/React-project/static/js/2.1483f89e.chunk.js.LICENSE.txt"
+    "url": "/React-project/static/js/2.a48bd138.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06b6298c762fdc9d1560",
-    "url": "/React-project/static/js/main.3cde3d2d.chunk.js"
+    "revision": "264c564028b53f6b6202",
+    "url": "/React-project/static/js/main.0144b19c.chunk.js"
   },
   {
     "revision": "5a541d56299de1bb4b90",
@@ -56,12 +56,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-project/static/media/Untitled2.31b35b55.jpg"
   },
   {
+    "revision": "4bfb004b55d1e2b48692975b05cefde2",
+    "url": "/React-project/static/media/Weather.4bfb004b.mp4"
+  },
+  {
     "revision": "ae1c75e21df0e7b2ff12da060632fbc7",
     "url": "/React-project/static/media/about1.ae1c75e2.png"
   },
   {
     "revision": "c0309b4b178f529b0a64df2eeeaa5453",
     "url": "/React-project/static/media/bakery.c0309b4b.mp4"
+  },
+  {
+    "revision": "e9a1c8523c7ffb059e51d32543af2230",
+    "url": "/React-project/static/media/business.e9a1c852.mp4"
   },
   {
     "revision": "77259ab4f8aa2f9533a2b069a434dc46",
@@ -98,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5ba2fb74b53e46a1a394d06958f44fa1",
     "url": "/React-project/static/media/one.5ba2fb74.jpg"
+  },
+  {
+    "revision": "d981ce67df5a586901d67a4e34258289",
+    "url": "/React-project/static/media/portfolio.d981ce67.mp4"
   },
   {
     "revision": "52703dc774a9777b858869a168983f1b",
