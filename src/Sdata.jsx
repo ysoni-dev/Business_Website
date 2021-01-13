@@ -7,6 +7,9 @@ import c4 from "../src/images/two.jpg";
 import c5 from "../src/images/four.jpg";
 import video from "../src/videos/bakery.mp4";
 import furn from "../src/videos/furniture.mp4";
+import weather from "../src/videos/Weather.mp4";
+import business from "../src/videos/business.mp4";
+import portfolio from "../src/videos/portfolio.mp4";
 
 import video1 from "../src/videos/hand_pizza7.mp4";
 const Sdata =[
@@ -14,21 +17,31 @@ const Sdata =[
             imgsrc: web,
             vidsrc: furn,
             title: "FURNITURE Digital Design",
+            href: '',
         },
         {
             imgsrc: c1,
             vidsrc: video,
             title:  "CREMS Digital Design",
-        },
-        {
-            imgsrc: c2,
-            vidsrc: video,
-            title: "shfgwf",
+            href: 'https://ysoni-dev.github.io/crems/',
         },
         {
             imgsrc: c3,
-            vidsrc: video,
-            title: "yfgy",
+            vidsrc: business,
+            title: "Ysoni Company",
+            href: 'https://ysoni-dev.github.io/React-project/',
+        },
+        {
+            imgsrc: c3,
+            vidsrc: portfolio,
+            title: "My Portfolio",
+            href: 'https://ysoni-dev.github.io/Portfolio/',
+        },
+        {
+            imgsrc: c2,
+            vidsrc: weather,
+            title: "Weather App",
+            href: 'https://ysoni-dev.github.io/WeatherappStopwatch/',
         },
         
 

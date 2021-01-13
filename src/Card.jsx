@@ -7,11 +7,29 @@ import HoverVideoPlayer from 'react-hover-video-player';
 const Card = (props) =>{
     return(
     <>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
  <div class="row row-cols-1 row-cols-md-2 gy-4 gx-2">
   <div class="col mb-4 gy-4">
     <div class="card text-center service-card">
-        <a target="_blank" href="https://ysoni-dev.github.io/crems/">
+        <a target="_blank" href={props.href}>
        <video
          onMouseOver={event => event.target.play()}
          onMouseOut={event => event.target.pause()}

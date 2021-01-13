@@ -20,6 +20,7 @@ const Project = () =>{
                             vidsrc={val.vidsrc}
                             imgsrc={val.imgsrc}
                             title={val.title}
+                            href ={val.href}
                             />
                         }
 
