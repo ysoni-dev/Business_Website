@@ -17,7 +17,7 @@ const Sdata =[
             imgsrc: web,
             vidsrc: furn,
             title: "FURNITURE Digital Design",
-            href: '',
+            href: 'https://github.com/ysoni-dev/woodcraft',
         },
         {
             imgsrc: c1,
